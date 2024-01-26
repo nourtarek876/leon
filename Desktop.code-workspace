@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/nourtarek/Desktop"
+		},
+		{
+			"path": "C:/Users/nourtarek/Desktop/1st python"
+		},
+		{
+			"path": "../work"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "work"
+	}
+}
